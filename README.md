@@ -9,6 +9,8 @@ Pour le rendre fonctionnel tu dois:
 
 3. Mettre le statut du bot dans le fichier ''ready.js''
 
+4. Exécuter la commande npm i dans le terminal de ton IDE ou dans le NodeJs command prompt
+
 Et voilà ! Ton bot est maintenant supposé être fonctionnel. TU n'as plus qu'à ajouter les fichiers dans ton hébergeur préféré où sinon tu peux l'héberger sur ton propre PC.
 
 En cas de soucis, contacte-moi sur Discord ! (Aigle Noir#0001) 
