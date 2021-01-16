@@ -14,3 +14,4 @@ Pour le rendre fonctionnel tu dois:
 Et voilà ! Ton bot est maintenant supposé être fonctionnel. TU n'as plus qu'à ajouter les fichiers dans ton hébergeur préféré où sinon tu peux l'héberger sur ton propre PC.
 
 En cas de soucis, contacte-moi sur Discord ! (Aigle Noir#7005) 
+Et n'oublie pas de mettre une ⭐:)
