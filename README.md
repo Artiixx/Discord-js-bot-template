@@ -1,10 +1,10 @@
 # Discord-js-bot-template
 Un template de bot Discord en Javascript. Il y a quelques commandes à l'intérieur et il est 100 % fonctionnel 😀
 
-##Sont Requis:
-#[NodeJS](https://nodejs.org/fr/) installé sur ton ordinateur
-#Un éditeur de code ou de texte (le bloc notes peut faire l'affaire)
-#Une application sur [Discord Developper Portal](https://discord.com/developers/applications)
+Sont Requis:
+[NodeJS](https://nodejs.org/fr/) installé sur ton ordinateur
+Un éditeur de code ou de texte (le bloc notes peut faire l'affaire)
+Une application sur [Discord Developper Portal](https://discord.com/developers/applications)
 
 Pour le rendre fonctionnel tu dois:
 
